@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stock Exchange Viewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">465575213653620</string>
+</resources>
